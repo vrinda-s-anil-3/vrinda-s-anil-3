@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vrinda S Anil 👋
 
-<!--
-**vrinda-s-anil-3/vrinda-s-anil-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Master of Cyber Security Student at Deakin University, Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 First Class B.Sc. Graduate in Forensic Science
+
+🛡️ Google Cybersecurity Professional Certificate
+
+🌱 Currently learning:
+- Ethical Hacking
+- Digital Forensics
+- Application Security
+- Secure Coding
+- Cloud Security
+
+## Current Focus
+
+- Building cybersecurity projects
+- Expanding my GitHub portfolio
+- Learning through hands-on labs and university projects
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/vrindasanil
+
+Thanks for visiting my profile!
